@@ -1,2 +1,2 @@
-# Labs_POO
-laboratórios de POO
+# Lab2
+laboratório 2 de POO
